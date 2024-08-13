@@ -1,0 +1,118 @@
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.dll.config
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.pdb
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.exe
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.exe.config
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.rsp
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.exe
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.exe.config
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.rsp
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Managed.Core.targets
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.AppContext.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Collections.Immutable.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Console.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Globalization.Calendars.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.Compression.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.FileSystem.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Net.Http.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Net.Sockets.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Reflection.Metadata.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.ValueTuple.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XmlDocument.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XPath.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.exe
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.exe.config
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.rsp
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\VBCSCompiler.exe
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\VBCSCompiler.exe.config
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.csproj.AssemblyReference.cache
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.csproj.CoreCompileInputs.cache
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.dll
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.pdb
+D:\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_fo.4140CF59.Up2Date
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.dll.config
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Rebel_foods.pdb
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.exe
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.exe.config
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csc.rsp
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.exe
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.exe.config
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\csi.rsp
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Managed.Core.targets
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.AppContext.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Collections.Immutable.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Console.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Globalization.Calendars.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.Compression.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.FileSystem.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Net.Http.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Net.Sockets.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Reflection.Metadata.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.ValueTuple.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XmlDocument.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XPath.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.exe
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.exe.config
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\vbc.rsp
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\VBCSCompiler.exe
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\roslyn\VBCSCompiler.exe.config
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.csproj.AssemblyReference.cache
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.csproj.CoreCompileInputs.cache
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.csproj.CopyComplete
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.dll
+F:\KAMALESH VENKATRAMAN - DOT NET -E.COMMERCE\REBEL_FOODS\Rebel_foods\Rebel_foods\obj\Debug\Rebel_foods.pdb
